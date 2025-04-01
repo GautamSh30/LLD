@@ -1,5 +1,7 @@
 /*
 
+https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/twitter/README.md
+
 ## Traffic
 
 1 billion total users with 200 million daily active users (DAU)

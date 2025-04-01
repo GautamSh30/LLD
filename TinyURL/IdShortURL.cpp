@@ -1,3 +1,5 @@
+// https://leetcode.com/discuss/post/124658/design-url-shortening-service-like-tinyu-047o/
+
 #include<bits/stdc++.h>
 using namespace std;
 

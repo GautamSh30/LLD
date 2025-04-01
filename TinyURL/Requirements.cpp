@@ -1,5 +1,7 @@
 /*
 
+https://www.code-recipe.com/post/url-shortener-system-design
+
 ## Traffic Estimates
 
 Total no. short URL generation requests per month = 100 million.
