@@ -28,4 +28,29 @@ https://medium.com/@ibrahim.zananiri/design-amazon-e-commerce-system-7f2dd57637b
 
     Total Estimated Data Size: ~29.67 TB
 
+### Actual Interview
+
+    - Requirements: 
+        - Search
+        - Recommendation
+        - Place Order
+        - Order Status
+        - Product reviews
+
+    - Ass umptions
+        - user profile creation provided
+        - product onboarding provided
+        - payment service provided
+
+    - NFR
+        - low latency -> recommendation, search
+        - high consistency -> placing order, order status, payments
+
+    - Estimations
+        - 300M monthly active users
+        - 300M * 10 search => 1000 Search/sec
+
+        - Total products = 10M
+        - 1 Product - 10MB => 100 TB storage
+
 */
